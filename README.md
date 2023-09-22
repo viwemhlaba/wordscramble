@@ -72,10 +72,8 @@ To play WordScramble on your local machine, follow these steps:
 
 ## Usage
 
-- Choose your preferred difficulty level.
 - Start unscrambling words by typing your guesses.
 - Use hints when you're stuck.
-- Try to beat your own high score and challenge your friends to see who can unscramble the most words in a limited time.
 
 ## Contributing
 
