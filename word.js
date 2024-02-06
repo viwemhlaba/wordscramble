@@ -354,5 +354,125 @@ const words = [
     {
         word: "adventure",
         hint: "Exciting or daring experience"
+    },{
+        word: "wonder",
+        hint: "A feeling of amazement or curiosity"
+    },
+    {
+        word: "harmony",
+        hint: "A pleasing combination of different elements"
+    },
+    {
+        word: "butterfly",
+        hint: "Colorful insect with wings, often found in gardens"
+    },
+    {
+        word: "innocence",
+        hint: "Lack of guilt or wrongdoing"
+    },
+    {
+        word: "laughter",
+        hint: "The sound of joy or amusement"
+    },
+    {
+        word: "peaceful",
+        hint: "Calm and free from disturbance"
+    },
+    {
+        word: "whisper",
+        hint: "Speaking softly in hushed tones"
+    },
+    {
+        word: "explore",
+        hint: "To investigate or travel in search of new things"
+    },
+    {
+        word: "memories",
+        hint: "Recollections of past events and experiences"
+    },
+    {
+        word: "discover",
+        hint: "To find something for the first time"
+    },
+    {
+        word: "happiness",
+        hint: "State of being happy or joyful"
+    },
+    {
+        word: "delight",
+        hint: "Great pleasure or joy"
+    },
+    {
+        word: "creative",
+        hint: "Having the ability to produce new and imaginative things"
+    },
+    {
+        word: "victory",
+        hint: "The state of winning or triumphing"
+    },
+    {
+        word: "sunrise",
+        hint: "Time when the sun appears above the horizon in the morning"
+    },
+    {
+        word: "moonlight",
+        hint: "Light from the moon at night"
+    },
+    {
+        word: "candle",
+        hint: "A stick of wax with a wick that is burned to produce light"
+    },
+    {
+        word: "fantasy",
+        hint: "A world of the imagination or unreal elements"
+    },
+    {
+        word: "brilliant",
+        hint: "Exceptionally bright or talented"
+    },
+    {
+        word: "journey",
+        hint: "Travel from one place to another"
+    },
+    {
+        word: "celebrate",
+        hint: "To commemorate a special event with festivities"
+    },
+    {
+        word: "storybook",
+        hint: "A collection of stories, often for children"
+    },
+    {
+        word: "harbor",
+        hint: "A sheltered place for ships and boats"
+    },
+    {
+        word: "glitter",
+        hint: "Tiny, bright, and shiny particles"
+    },
+    {
+        word: "chocolate",
+        hint: "Sweet food made from roasted and ground cacao beans"
+    },
+    {
+        word: "rainbow",
+        hint: "Optical and meteorological phenomenon with a spectrum of colors"
+    },
+    {
+        word: "camera",
+        hint: "Device used for capturing and recording images"
+    },
+    {
+        word: "dance",
+        hint: "Rhythmic movement to music"
+    },
+    {
+        word: "sunset",
+        hint: "Time when the sun goes below the horizon in the evening"
+    },
+    {
+        word: "friendship",
+        hint: "Relationship between two or more people who trust and support each other"
     }
+    
 ];
