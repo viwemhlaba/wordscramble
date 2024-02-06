@@ -11,8 +11,10 @@ const modalTitle = document.querySelector('#modal-title');
 const modalCloseBtn = document.querySelector('.modal-close');
 
 let correctWord;
+let timer;
 
 const initTimer = maxTime => {
+    clearInterval(timer);
     timer = setInterval(() => {
         if (maxTime > 0) {
             maxTime--;
