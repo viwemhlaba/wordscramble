@@ -11,7 +11,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #f8731b;
+    background-color: #7B0D1E;
 }
 
 .container{
@@ -86,7 +86,7 @@ body{
     font-size: 17px;
     border-radius: 5px;
     width: calc(100% / 2 - 8px);
-    background: #f8731b;
+    background: #7B0D1E;
     cursor: pointer;
 }
 
@@ -105,7 +105,7 @@ body{
 }
 
 .content input:focus{
-    border: 1.5px solid #f8731b;
+    border: 1.5px solid #7B0D1E;
 }
 
 .content .buttons{
@@ -130,6 +130,21 @@ body{
 }
 
 .buttons .check-word{
-    background: #f8731b;
+    background: #7B0D1E;
     cursor: pointer;
+}
+
+.footer {
+    background-color: #ffffff;
+    color: #6c757d;
+    text-align: center;
+    padding: 10px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top: 1px solid #ccc;
+}
+
+.email-link{
+    text-decoration: none;
+    color: rgb(12, 72, 201);
 }
